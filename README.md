@@ -1,11 +1,10 @@
 # Edge 
-1. Run the below commands to run the react code on client client side 
+1. Run the below commands:
+    npm i 
+    npm start
 
 # Technology Used 
 React, Redux, JS, npm library
-
-npm i 
-npm start
 
 # Search Functionality
 1. The search functionality is not 100 percent correct, it does not use the end point. It should use the query string submitted by the user to search.
